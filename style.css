@@ -1,0 +1,86 @@
+*{
+    margin: 0;
+    padding: 0;
+}   
+.header{
+    background-color: rgb(53, 53, 223);
+    padding-top: 1.5rem;
+    padding-right: 1.5rem;
+    padding-left: 1.5rem;
+    
+}
+h1{
+    color: white;
+}
+.header-title{
+    padding-bottom: 1.5rem;
+}
+.photo{
+    background-image: url('bg-rectangle.svg');
+    background-size : auto;
+    text-align: center;
+    padding: 6rem 5rem 6rem 5rem ;
+
+}
+
+.btn-start{
+    background-color: rgb(53, 53, 223) ;
+    color: white;
+    padding: 0.8rem 1rem;
+}
+h1{
+    color:white;
+
+}
+#header-slogan{
+    color: white;
+   
+}
+h2{
+    color: black;
+}
+.about-title{
+    text-align: center ;
+
+}
+.text{
+    text-align: center;
+}
+.video{
+    display: flex;
+    justify-content: center;
+}
+h3{
+    color: blue;
+    padding-left: 4rem;
+}
+.objectif-title{
+    color: blue;
+    padding-left: 4rem;
+    
+    
+    
+}
+.objectifs{
+    padding-left: 4rem
+    
+} 
+ul{
+    color: black;
+    padding-left: 5rem;
+}
+.flutter{
+    background-color: rgb(53, 53, 223);
+    padding-top: 2rem;
+    padding-right: 2rem;
+    padding-left: 2rem;
+   color: white;
+   text-align: center;
+   
+}
+.text-flutter{
+    padding-bottom: 2rem;
+}
+
+
+
